@@ -5,7 +5,7 @@ parâmetros, “ax2”, “bx” e “c”, de tal modo que na equação: 3x² -
 que os resultados sejam iguais. Caso o delta seja negativo, retorne, ao invés do vetor, um string com a frase:
 “Delta é negativo”.*/
 
-//resposta 
+//resposta. 
 
 function bhaskara (ax2, bx, c) {
     let resultados = []
